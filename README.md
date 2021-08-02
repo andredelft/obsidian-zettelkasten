@@ -1,6 +1,6 @@
 # Zettelkasten
 
-Setup for using the Zettelkasten system in Obsidian. Based on: https://www.knowledgeworker.blog/p/how-to-take-smart-notes-in-obsidian
+Setup for using the Zettelkasten system in Obsidian. Based on: https://theknowledgeworker.substack.com/p/how-to-take-smart-notes-in-obsidian
 
 ## Setup
 

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:-\"_\" path:-\"README\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:index/personen",
+      "color": {
+        "a": 1,
+        "rgb": 14075484
+      }
+    },
+    {
+      "query": "tag:#permanent-note",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#literature-note",
+      "color": {
+        "a": 1,
+        "rgb": 1215549
+      }
+    },
+    {
+      "query": "tag:#index-note",
+      "color": {
+        "a": 1,
+        "rgb": 6066646
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0804052623752138,
+  "close": true
+}

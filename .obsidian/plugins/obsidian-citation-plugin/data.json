@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "literature",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\n---\n\ntags: #literature-note\n\n[Open in Zotero]({{zoteroSelectURI}})\n\n---",
+  "markdownCitationTemplate": "[[@{{citekey}} | {{authorString}}, '{{title}}']]",
+  "alternativeMarkdownCitationTemplate": "[[@{{citekey}}]]",
+  "citationExportPath": "_meta/library.json"
+}

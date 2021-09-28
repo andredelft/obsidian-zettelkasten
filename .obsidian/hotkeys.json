@@ -49,5 +49,13 @@
       ],
       "key": "G"
     }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
